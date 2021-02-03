@@ -6,7 +6,7 @@ This file will automatically run after boot.
 ## Tested on:
 * `Windows`
 ## Features and info:
-* [+] Works on Windows (All OS)
+* [+] Works on Windows (All versions)
 * [+] Current version: 1.1
 * [+] Self install and setup (Only download and run the file.)
 * [+] Automatically runs after boot.
