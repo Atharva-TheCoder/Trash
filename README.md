@@ -13,4 +13,8 @@ This file will automatically run after boot.
 ## Requirements:
 * [+] Internet - 10MB
 * [+] 1MB Disk space
-
+## Last Update:
+* Date - 4 Feb 2021
+* Time - 1:56 pm
+### What's new: 
+[+] Minor bug fixes and improvements.
